@@ -1,6 +1,6 @@
 Proiect Tehnici Web - Anul I, Semestrul II
-
-	Partea I. Cerinte pentru partea de HTML si CSS (10 puncte):
+-----------------------------------------------------------------------
+##Partea I. Cerinte pentru partea de HTML si CSS (10 puncte):
 
 - [ ] fisiere separate pentru HTML si CSS;
   
@@ -27,8 +27,8 @@ Proiect Tehnici Web - Anul I, Semestrul II
 - [ ] continutul siteului sa aiba sens.
 
 
-
-	Partea II.A. Cerinte pentru partea de JavaScript (12 puncte):
+-----------------------------------------------------------------------
+##Partea II.A. Cerinte pentru partea de JavaScript (12 puncte):
 
 - [ ] fisier separat JavaScript;
   
@@ -61,8 +61,8 @@ Proiect Tehnici Web - Anul I, Semestrul II
 - [ ] elementele de JavaScript sa fie integrate cu sens in cadrul proiectului ( aplicatie javascript).
 
 
-
-	Partea II.B. Cerinte pentru partea de Node.js (8 puncte):
+-------------------------------------------------------------------------------
+##Partea II.B. Cerinte pentru partea de Node.js (8 puncte):
 
 - [ ] cereri get/post: preluare date din formular;
   
