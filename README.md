@@ -27,6 +27,7 @@ Proiect Tehnici Web - Anul I, Semestrul II
 - [ ] continutul siteului sa aiba sens.
 
 
+
 	Partea II.A. Cerinte pentru partea de JavaScript (12 puncte):
 
 - [ ] fisier separat JavaScript;
@@ -58,6 +59,7 @@ Proiect Tehnici Web - Anul I, Semestrul II
 - [ ] validarea datelor dintr-un formular folosind expresii regulate;
   
 - [ ] elementele de JavaScript sa fie integrate cu sens in cadrul proiectului ( aplicatie javascript).
+
 
 
 	Partea II.B. Cerinte pentru partea de Node.js (8 puncte):
