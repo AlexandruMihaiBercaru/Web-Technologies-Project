@@ -29,31 +29,31 @@ Proiect Tehnici Web - Anul I, Semestrul II
 
 ## Partea II.A. Cerinte pentru partea de JavaScript (12 puncte):
 
-- [ ] fisier separat JavaScript;
+- [x] fisier separat JavaScript;
   
-- [ ] modificarea stilului unui element sau al unui grup de elemente;
+- [x] modificarea stilului unui element sau al unui grup de elemente;
   
-- [ ] manevrarea DOM-ului (selectare dupa id, tag, clasa, selectorCSS);
+- [x] manevrarea DOM-ului (selectare dupa id, tag, clasa, selectorCSS);
   
-- [ ] creare si stergere de elemente;
+- [x] creare si stergere de elemente;
   
-- [ ] folosirea si modificarea evenimentelor generate de mouse si tastatura;
+- [x] folosirea si modificarea evenimentelor generate de mouse si tastatura;
   
-- [ ] modificare de proprietati;
+- [x] modificare de proprietati;
   
-- [ ] inputuri functionale (de exemplu: input de tip text/range/number/radio/checkbox, select, textarea);
+- [x] inputuri functionale (de exemplu: input de tip text/range/number/radio/checkbox, select, textarea);
   
-- [ ] setTimeout, setInterval;
+- [x] setTimeout, setInterval;
   
 - [ ] folosirea localStorage (sa se pastreze in localStorage o colectie de elemente);
   
-- [ ] folosirea a cel putin unei metode din clasele: Math, Array, String, Date;
+- [x] folosirea a cel putin unei metode din clasele: Math, Array, String, Date;
   
-- [ ] schimbarea aleatoare a valorilor unor proprietati (de exemplu: culoare, dimensiuni, pozitii);
+- [x] schimbarea aleatoare a valorilor unor proprietati (de exemplu: culoare, dimensiuni, pozitii);
   
-- [ ] folosirea proprietatilor classList, target, currentTarget;
+- [x] folosirea proprietatilor classList, target, currentTarget;
   
-- [ ] folosirea metodelor getComputedStyle si stopPropagation cu un sens relevant;
+- [x] folosirea metodelor getComputedStyle si stopPropagation cu un sens relevant;
   
 - [ ] validarea datelor dintr-un formular folosind expresii regulate;
   

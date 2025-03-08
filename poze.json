@@ -1,0 +1,17 @@
+[{"nume":["Popescu Maria"],
+"mail":["maria.popescu@gmail.com"],
+"descriere":["cer de primavara"],
+"data":["2022-12-12"]},
+
+{"nume":["Popescu Matei"],"mail":["matei.popescu@gmail.com"],
+"descriere":["castel"],"data":["2022-12-13"],
+"poza":[{"size":546933,"filepath":"D:\\Facultate\\Anul I Sem 2\\TW (Tehnici Web)\\Proiect\\upload\\c351a962fa0f051f7141f9000.jpg",
+"newFilename":"c351a962fa0f051f7141f9000.jpg","mimetype":"image/jpeg",
+"mtime":"2024-06-06T06:42:36.148Z","originalFilename":"suvorov.jpg"}]},
+{"nume":["Popescu Matei"],"mail":["matei.popescu@gmail.com"],"descriere":["castel"],"data":["2022-12-13"],
+
+"poza":[{"size":546933,"filepath":"D:\\Facultate\\Anul I Sem 2\\TW (Tehnici Web)\\Proiect\\upload\\42276a6657b973c4af6e9fd00.jpg",
+
+"newFilename":"42276a6657b973c4af6e9fd00.jpg","mimetype":"image/jpeg","mtime":"2024-06-06T06:45:11.930Z","originalFilename":"suvorov.jpg"}]}
+
+,{"nume":["Popescu Matei"],"mail":["matei.popescu@gmail.com"],"descriere":["castel"],"data":["2022-12-13"],"poza":[{"size":546933,"filepath":"D:\\Facultate\\Anul I Sem 2\\TW (Tehnici Web)\\Proiect\\upload\\3781d8f78ff6da1227bd3ed00.jpg","newFilename":"3781d8f78ff6da1227bd3ed00.jpg","mimetype":"image/jpeg","mtime":"2024-06-06T06:45:12.361Z","originalFilename":"suvorov.jpg"}]},{},{"nume":["ddf"],"mail":["sasas@asa.com"],"descriere":["wewewe"],"data":["0121-12-12"],"poza":[{"size":4221093,"filepath":"D:\\Facultate\\Anul I Sem 2\\TW (Tehnici Web)\\Proiect\\upload\\1aedc7eb207df028d6fb22b00.jpg","newFilename":"1aedc7eb207df028d6fb22b00.jpg","mimetype":"image/jpeg","mtime":"2024-06-06T07:00:05.291Z","originalFilename":"padure_helesteu2.jpg"}]},{"nume":["Popescu Matei"],"mail":["matei.popescu@gmail.com"],"descriere":["adsad"],"data":["1212-12-12"],"poza":[{"size":4240613,"filepath":"D:\\Facultate\\Anul I Sem 2\\TW (Tehnici Web)\\Proiect\\upload\\d0f6a02a4ba308ffee2a2f300.JPG","newFilename":"d0f6a02a4ba308ffee2a2f300.JPG","mimetype":"image/jpeg","mtime":"2024-06-06T07:49:05.721Z","originalFilename":"DSC_0319.JPG"}]}]
